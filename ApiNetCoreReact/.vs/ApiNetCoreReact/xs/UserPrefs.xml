@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{48DC9F4A-3041-4922-A032-8B618E77D808}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiNetCoreReact/Repository/UsuariosRepository.cs">
+    <Files>
+      <File FileName="ApiNetCoreReact/Controllers/UsuariosController.cs" Line="79" Column="19" />
+      <File FileName="ApiNetCoreReact/Models/Usuarios.cs" Line="1" Column="1" />
+      <File FileName="ApiNetCoreReact/Repository/IUsuario.cs" Line="1" Column="1" />
+      <File FileName="ApiNetCoreReact/Repository/UsuariosRepository.cs" Line="39" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiNetCoreReact" expanded="True">
+            <Node name="ApiNetCoreReact" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="UsuariosRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ApiNetCoreReact PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
